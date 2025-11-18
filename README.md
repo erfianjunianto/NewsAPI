@@ -70,8 +70,8 @@ Open `App.tsx` in your text editor of choice and make some changes. When you sav
 
 When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
 
-- **Android**: Press the `<kbd>`R`</kbd>` key twice or select **"Reload"** from the **Dev Menu**, accessed via `<kbd>`Ctrl`</kbd>` + `<kbd>`M`</kbd>` (Windows/Linux) or `<kbd>`Cmd ⌘`</kbd>` + `<kbd>`M`</kbd>` (macOS).
-- **iOS**: Press `<kbd>`R`</kbd>` in iOS Simulator.
+- **Android**: Press the `<kbd>`R `</kbd>` key twice or select **"Reload"** from the **Dev Menu**, accessed via `<kbd>`Ctrl `</kbd>` + `<kbd>`M `</kbd>` (Windows/Linux) or `<kbd>`Cmd ⌘`</kbd>` + `<kbd>`M `</kbd>` (macOS).
+- **iOS**: Press `<kbd>`R `</kbd>` in iOS Simulator.
 
 ## Congratulations! 🎉
 
@@ -96,7 +96,7 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
-# install navigation
+# Install Navigation
 
 ```npm
 npm install @react-navigation/native @react-navigation/native-stack
@@ -109,3 +109,7 @@ npm install react-native-screens react-native-safe-area-context
 ```npm
 npm install @react-navigation/elements
 ```
+
+# URL API
+
+- [News API Data](https://newsdata.io/api/1/latest?apikey=pub_8c6c1e2581be4af485dbb862435f1420&q=education&country=id&language=id) - klik untuk melihat data/url

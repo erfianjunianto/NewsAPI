@@ -17,7 +17,7 @@ export default function Home({ navigation }) {
       id: 1,
       title: 'Gunung Bromo',
       image: 'https://picsum.photos/id/1018/400/250',
-      description: 'Gunung Bromo terkenal dengan matahari terbit yang indah.'
+      description: 'Gunung Bromo terkenal dengan matahari terbitnya yang indah karena pemandangan dramatisnya dengan gradasi warna langit yang menakjubkan, kabut di lautan pasir, dan siluet pegunungan di sekitarnya. Fenomena ini dapat dinikmati dari berbagai spot seperti Penanjakan 1, yang merupakan salah satu spot paling populer dan ramai, atau spot lain yang lebih tenang seperti Penanjakan 2 atau Tosari.'
     },
     {
       id: 2,

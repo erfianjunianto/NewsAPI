@@ -23,5 +23,5 @@ const styles = StyleSheet.create({
   container: { flex: 1, padding: 16 },
   image: { width: '100%', height: 250, borderRadius: 12, marginBottom: 15 },
   title: { fontSize: 22, fontWeight: '600', marginBottom: 10 },
-  desc: { fontSize: 16, lineHeight: 22, color: '#555' },
+  desc: { fontSize: 16, lineHeight: 22, color: '#555', textAlign: 'justify' },
 });
