@@ -12,7 +12,7 @@ export default function Detail({ route, navigation }) {
 
   return (
     <View style={styles.container}>
-      <Image source={{ uri: item.image }} style={styles.image} />
+      <Image source={{ uri: item.image_url }} style={styles.image} />
       <Text style={styles.title}>{item.title}</Text>
       <Text style={styles.desc}>{item.description}</Text>
     </View>
