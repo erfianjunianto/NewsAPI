@@ -110,6 +110,22 @@ npm install react-native-screens react-native-safe-area-context
 npm install @react-navigation/elements
 ```
 
+## Bottom Nav
+
+```npm
+npm install @react-navigation/bottom-tabs
+```
+
+```npm
+npm install react-native-vector-icons
+```
+
+Tambahkan ke android/app/build.gradle:
+
+```sh
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+```
+
 # URL API
 
 - [News API Data](https://newsdata.io/api/1/latest?apikey=pub_8c6c1e2581be4af485dbb862435f1420&q=education&country=id&language=id) - klik untuk melihat data/url
